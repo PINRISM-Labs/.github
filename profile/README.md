@@ -1,11 +1,11 @@
 <div align="center">
-  
-  # PINRISM LABS✨
-  
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZiMThqZWVvc3Frb3FpOG11aXBpMTdoZXE0cXVzNHhyamRqc2ZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e24Cb2HMTo010bYB6G/giphy.gif" />
 
-  **We build Open-source .NET libraries &.............?**
-  
+# 🚀 PINRISM LABS
+
+<img src="https://github.com/PINRISM-Labs/.github/blob/main/profile/unnamed.png" width="600" alt="Pinrism Labs Banner" />
+
+**We build open-source .NET libraries & tools for developers.**
+
 </div>
 
 ---
