@@ -14,7 +14,7 @@
 
 | Name | Description | Status |
 |------|-------------|--------|
-| **`PinRism.OCR`** |(Powerd by Gemini) OCR .NET library | 🚧 In progress |
+| **`PinRism.OCR`** |(Powerd by Gemini) OCR .NET library | Beta virsion |
 
 
 ---
