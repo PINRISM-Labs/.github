@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 PINRISM LABS
+#  PINRISM LABS
 
 <img src="https://github.com/PINRISM-Labs/.github/blob/main/profile/unnamed.png" width="600" alt="Pinrism Labs Banner" />
 
