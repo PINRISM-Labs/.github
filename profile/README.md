@@ -4,7 +4,7 @@
   
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZiMThqZWVvc3Frb3FpOG11aXBpMTdoZXE0cXVzNHhyamRqc2ZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e24Cb2HMTo010bYB6G/giphy.gif" />
 
-  **We build Open-source .NET libraries and more.............**
+  **We build Open-source .NET libraries &.............?**
   
 </div>
 
